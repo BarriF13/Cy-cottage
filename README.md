@@ -1,6 +1,6 @@
 ### [Makers Academy](http://www.makersacademy.com) - Week 6 Team programming challenge 
 
-# MakersBnB 🏠
+# Cy -cottage (MakersBnB 🏠)
 
 #### Technologies: Javascript, Jasmine, Ruby, Rspec, Capybara, Sinatra, ActiveRecord, SQL, HTML, CSS, RuboCop, ESLint
 
